@@ -4458,7 +4458,7 @@
         {
             "name": "sd-webui-breadcrumbs",
             "url": "https://github.com/ThereforeGames/sd-webui-breadcrumbs.git",
-            "description": "Adds a breadcrumb trail and makes improvements to the Quicksettings menu.",
+            "description": "Добавляет след из хлебных крошек и вносит улучшения в меню Quicksettings.",
             "tags": [
                 "UI related"
             ],
